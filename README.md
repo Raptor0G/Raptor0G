@@ -1,3 +1,13 @@
+
+## 👋 Hi, I'm Raptor! 
+
+I’m the CEO of **Neurocode**, and We  specialize in building **AI-driven solutions**, **automation systems**, and **scalable tech**. I’m passionate about **machine learning**, **technology**, and **business** innovation. 
+## Our services 
+- Web Development
+- App Development
+- Messenger Bot Development
+- AI Automation
+
 - 👋 Hi, I’m @Raptor0G
 - 👀 I’m interested in Artifical intelligence
 - 🌱 I’m currently learning Machine Learning and Data Science
@@ -5,6 +15,7 @@
 - 📫 How to reach me I'm Avalabile on Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your brain is constantly eating itself.
+
 
 
 ![Typing](https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&lines=Machine+Learning+Enthusiast;AI+Innovator;Automation+Explorer)
