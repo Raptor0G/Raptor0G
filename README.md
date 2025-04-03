@@ -5,7 +5,10 @@
 - 📫 How to reach me I'm Avalabile on Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your brain is constantly eating itself.
-![Typing](https://readme-typing-svg.herokuapp.com?size=18&color=F70000&lines=Full+Stack+Developer;AI+Automation+Specialist;Discord+Bot+Developer)
+
+
+![Typing](https://readme-typing-svg.herokuapp.com?size=18&color=FF0000&lines=❤️+Machine+Learning)
+
 
 
 <!---
