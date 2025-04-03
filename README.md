@@ -34,6 +34,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Raptor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raptor0G&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
+
+`"There are no facts, only interpretations" - Friedrich Nietzsche`
+
+
 ## 🤝 Let's Collaborate!
 Feel free to [reach out](Discord - akgamerz77)!
 
