@@ -40,10 +40,3 @@ Feel free to [reach out](Discord - akgamerz77)!
 
 
 
-
-s=true&count_private=true&hide_title=true&hide=prs)
-
-## 🤝 Let's Collaborate!
-Feel free to [reach out](Discord - akgamerz77)!
-
-
