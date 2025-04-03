@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Your brain is constantly eating itself.
 
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=18&color=FF0000&lines=❤️+Machine+Learning)
+![Typing](https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&lines=Machine+Learning+Enthusiast;AI+Innovator;Automation+Explorer)
 
 
 
