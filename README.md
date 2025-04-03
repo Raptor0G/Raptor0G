@@ -13,7 +13,7 @@ I’m the CEO of **Neurocode**, and We specialize in building **AI-driven soluti
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on Making Projects 
-- 📫 How to reach me: I'm **Available** on Discord.
+- 📫 How to reach me: I'm Available on Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your brain is constantly eating itself.
 
@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤝 Let's Collaborate!
 Feel free to [reach out](Discord - akgamerz77)!
+
 
 
 
