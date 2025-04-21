@@ -39,7 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🤝 Let's Collaborate!
-Feel free to [reach out](Discord - akgamerz77)!
+Feel free to [reach out]
+Discord: raptorog7
+Email: neurocode65@protonmail.com
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raptor0G&style=flat-square&color=blue)
