@@ -41,19 +41,23 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </a
 
+<br/><br/>
 
 ## 📊 GitHub Stats
 
 ![Raptor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raptor0G&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
+<br/>
 
-"There are no facts, only interpretations" - Friedrich Nietzsche
+"There are no facts, only interpretations" – Friedrich Nietzsche
 
+<br/><br/>
 
 ## 🤝 Let's Collaborate!
-Feel free to [reach out]
-Discord: raptorog7
+Feel free to [reach out]  
+Discord: raptorog7  
 Email: neurocode65@protonmail.com
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raptor0G&style=flat-square&color=blue)
