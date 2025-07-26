@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ## 🤝 Let's Collaborate!
 Feel free to [reach out]  
 Discord: raptorog7  
-Email: neurocode65@protonmail.com
+Email: katatech@protonmail.com
 
 
 
