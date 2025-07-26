@@ -1,9 +1,10 @@
 
 ## 👋 Hi, I'm Raptor! 
 
-I’m the CEO of **Neurocode**, and We specialize in building **AI-driven solutions**, **automation systems**, and **scalable tech**. I’m passionate about **machine learning**, **technology**, and **business** innovation. 
+I’m the CEO of **Katamorphosis**, and We specialize in building **AI-driven solutions**, **automation systems**, and **scalable tech**. I’m passionate about **machine learning**, **technology**, and **business** innovation. 
 ---
 ## Our services 
+- 30-day MVP development
 - Web Development
 - App Development
 - Messenger Bot Development
