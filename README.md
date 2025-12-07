@@ -24,8 +24,8 @@
 
 🔭 **Currently Working On:** AI/ML projects and exploring deep learning architectures  
 💰 **Interested In:** Quantitative Finance and Financial Technology  
-🔬 **Passion:** Physics enthusiast - exploring the intersection of physics and computation  
-🎓 **Education:** Pursuing Computer Science degree  
+🔬 **Passion:** Physics enthusiast  
+🎓 **Education:** Student 
 📧 **Reach Me:** [ameyask03@proton.me](mailto:ameyask03@proton.me)
 
 ## 🛠️ Tech Stack
