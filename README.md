@@ -1,68 +1,86 @@
+<div align="center">
 
-## 👋 Hi, I'm Raptor! 
+# 👋 Hi, I'm Ameya
 
-I’m the CEO of **Katamorphosis**, and We specialize in building **AI-driven solutions**, **automation systems**, and **scalable tech**. I’m passionate about **machine learning**, **technology**, and **business** innovation. 
+### Student | AI/ML Developer | India
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raptor0G&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
 ---
-## Our services 
-- 30-day MVP development
-- Web Development
-- App Development
-- Messenger Bot Development
-- AI Automation
---- 
-- 👋 Hi, I’m @Raptor0G
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on Making Projects 
-- 📫 How to reach me: I'm Available on Discord.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Your brain is constantly eating itself.
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&lines=Machine+Learning+Enthusiast;AI+Innovator;Automation+Explorer)
+## 🚀 About Me
 
-<!---
-Raptor0G/Raptor0G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## My Skills  
+**Role:** Student  
+**Location:** India 🇮🇳  
+**Interests:** AI/ML, Quantitative Finance, Physics, Game Theory  
+**Currently Learning:** Deep Learning, Quant Trading  
+**Goals:** Becoming an AI/ML Developer
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</a>
+> *Thanks for dropping by! Let's build something amazing together.*
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</a>
+## 💡 What Drives Me
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</a>
+🔭 **Currently Working On:** AI/ML projects and exploring deep learning architectures  
+💰 **Interested In:** Quantitative Finance and Financial Technology  
+🔬 **Passion:** Physics enthusiast - exploring the intersection of physics and computation  
+🎓 **Education:** Pursuing Computer Science degree  
+📧 **Reach Me:** [ameyask03@proton.me](mailto:ameyask03@proton.me)
 
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-</a
+## 🛠️ Tech Stack
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-![Raptor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raptor0G&show_icons=true&count_private=true&hide_title=true&hide=prs)
+```mermaid
+graph TD
+    A[Ameya] --> B[AI/ML Development]
+    A --> C[Quantitative Finance]
+    A --> D[Physics & Computation]
+    A --> E[Game Theory]
+    A --> F[Business]
+    
+    B --> B1[Deep Learning]
+    B --> B2[Neural Networks]
+    
+    C --> C1[Algorithmic Trading]
+    C --> C2[Financial Modeling]
+    C --> C3[Risk Management]
+    
+    D --> D1[Computational Physics]
+    D --> D2[Simulations]
+    D --> D3[Mathematical Modeling]
+    
+    style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
+    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
+    style E fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+    style F fill:#30cfd0,stroke:#330867,stroke-width:2px,color:#fff
+```
 
-<br/>
+## 🤝 Let's Connect
 
-"There are no facts, only interpretations" – Friedrich Nietzsche
+<p align="center">
+  <a href="mailto:ameyask03@proton.me">
+    <img src="https://img.shields.io/badge/Email-ameyask03@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<br/><br/>
+---
 
-## 🤝 Let's Collaborate!
-Feel free to [reach out]  
-Discord: raptorog7  
-Email: katatech@protonmail.com
+<div align="center">
 
+###  *"Looking for anything outside yourself is a fundamental delusion"*
 
+**From Ameya*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Raptor0G&style=flat-square&color=blue)
-
-
+</div>
 
 
