@@ -1,17 +1,13 @@
+
 <div align="center">
-
-# 👋 Hi, I'm Ameya
-
-### Student | AI/ML Developer | India
-
-![Profile Views](https://komarev.com/ghpvc/?username=Raptor0G&color=blueviolet&style=flat-square&label=Profile+Views)
-
+<h1>👋 Hi, I'm Ameya</h1>
+<h3>Student | AI/ML Developer | India</h3>
+<img src="https://komarev.com/ghpvc/?username=Raptor0G&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
 ## 🚀 About Me
-
 **Role:** Student  
 **Location:** India 🇮🇳  
 **Interests:** AI/ML, Quantitative Finance, Physics, Game Theory  
@@ -21,24 +17,36 @@
 > *Thanks for dropping by! Let's build something amazing together.*
 
 ## 💡 What Drives Me
-
 🔭 **Currently Working On:** AI/ML projects and exploring deep learning architectures  
 💰 **Interested In:** Quantitative Finance and Financial Technology  
 🔬 **Passion:** Physics enthusiast  
-🎓 **Education:** Student
-
+🎓 **Education:** Student  
 📧 **Reach Me:** [ameyask03@proton.me](mailto:ameyask03@proton.me)
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  </a>
+</p>
 </p>
 
 ## 🎯 Current Focus
-
 ```mermaid
 graph TD
     A[Ameya] --> B[AI/ML Development]
@@ -67,7 +75,6 @@ graph TD
 ```
 
 ## 🤝 Let's Connect
-
 <p align="center">
   <a href="mailto:ameyask03@proton.me">
     <img src="https://img.shields.io/badge/Email-ameyask03@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
@@ -77,11 +84,7 @@ graph TD
 ---
 
 <div align="center">
-
-###  *"Looking for anything outside yourself is a fundamental delusion"*
-
-**From Ameya*
-
+<h3><i>"Looking for anything outside yourself is a fundamental delusion"</i></h3>
+<p><strong>— Ameya</strong></p>
 </div>
-
 
