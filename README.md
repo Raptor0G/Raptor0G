@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>👋 Hi, I'm Ameya</h1>
+<h1>👋 Hi, I'm Ammey</h1>
 <h3>Student | AI/ML Developer | India</h3>
 <img src="https://komarev.com/ghpvc/?username=Raptor0G&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
