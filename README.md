@@ -24,6 +24,7 @@
 📧 **Reach Me:** [ameyask03@proton.me](mailto:ameyask03@proton.me)
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,7 +45,7 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </a>
   <a href="https://python.antigravity.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Antigravity-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB4PSI1MCIgeT0iNTAiIGZvbnQtc2l6ZT0iODAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj7wn4qlPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="Antigravity"/>
+    <img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logoColor=white" alt="Antigravity"/>
   </a>
 </p>
 
