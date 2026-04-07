@@ -44,8 +44,8 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </a>
-  <a href="https://python.antigravity.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
   </a>
 </p>
 
