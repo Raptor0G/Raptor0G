@@ -19,7 +19,7 @@
 🔭 **Currently Working On:** AI/ML projects and exploring deep learning architectures  
 💰 **Interested In:** Quantitative Finance and Financial Technology  
 🎓 **Education:** Student  
-📧 **Reach Me:** Discord : raptorog7
+📧 **Discord:** raptorog7
 
 ## 🛠️ Tech Stack
 
@@ -75,12 +75,7 @@ graph TD
     style F fill:#30cfd0,stroke:#330867,stroke-width:2px,color:#fff
 ```
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="mailto:ameyask03@proton.me">
-    <img src="https://img.shields.io/badge/Email-ameyask03@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+
 
 ---
 
