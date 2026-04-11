@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 **Role:** Student  
-**Location:** India 🇮🇳 
-
+**Location:** India 🇮🇳  
 **Interests:** AI/ML, Quantitative Finance, Data Analysis 
 **Currently Learning:** Deep Learning, Machine Learning  
 **Goals:** AI/ML, Working on a startup, Building an audience
