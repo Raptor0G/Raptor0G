@@ -85,7 +85,7 @@ graph TD
 ---
 
 <div align="center">
-<h3><i>"Looking for anything outside yourself is a fundamental delusion"</i></h3>
-<p><strong>— Ameya</strong></p>
+<h3><i>"Creativity and Intelligence is our greatest gift, nurture it"</i></h3>
+<p><strong>— Ammey</strong></p>
 </div>
 
