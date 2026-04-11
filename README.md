@@ -9,19 +9,18 @@
 
 ## 🚀 About Me
 **Role:** Student  
-**Location:** India 🇮🇳  
-**Interests:** AI/ML, Quantitative Finance, Physics, Game Theory  
-**Currently Learning:** Deep Learning, Quant Trading  
-**Goals:** Becoming an AI/ML Developer
+**Location:** India 🇮🇳 
+**Interests:** AI/ML, Quantitative Finance, Data Analysis 
+**Currently Learning:** Deep Learning, Machine Learning  
+**Goals:** AI/ML, Working on a startup, Building an audience
 
 > *Thanks for dropping by! Let's build something amazing together.*
 
 ## 💡 What Drives Me
 🔭 **Currently Working On:** AI/ML projects and exploring deep learning architectures  
 💰 **Interested In:** Quantitative Finance and Financial Technology  
-🔬 **Passion:** Physics enthusiast  
 🎓 **Education:** Student  
-📧 **Reach Me:** [ameyask03@proton.me](mailto:ameyask03@proton.me)
+📧 **Reach Me:** Discord : raptorog7
 
 ## 🛠️ Tech Stack
 
