@@ -45,6 +45,9 @@
   <a href="https://antigravity.google/" target="_blank">
     <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
   </a>
+  <a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</a>
 </p>
 
 ## 🎯 Current Focus
